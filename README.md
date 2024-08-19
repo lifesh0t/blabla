@@ -38,5 +38,5 @@ Try to control the center of the board, as it offers the most opportunities to c
 Pay attention to your opponent’s moves and block them if they are about to win.
 Look for opportunities to create a situation where you have two potential ways to win, forcing your opponent to block only one.
 This game is a great way to practice basic strategic thinking and can be enjoyed by players of all ages!
-<h3 align="left">Games is working with:</h3>
+<h3 align="left">Game is working with:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
