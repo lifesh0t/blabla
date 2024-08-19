@@ -2,8 +2,7 @@
 Here you can find and tic tac toe game code. Game is clear for everybody if not i can remmind you:
 
 Tic-Tac-Toe is a simple and classic game that can be played by two players. The game is typically played on a 3x3 grid. Here are the basic rules:
-**
-1. Game Setup:**
+1. Game Setup:
 The game board is a 3x3 grid, which can be drawn on paper or represented digitally.
 There are two players, one is designated as "X" and the other as "O."
 2. Objective:
